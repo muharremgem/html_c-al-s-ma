@@ -1,0 +1,13 @@
+
+@use "./abstracts/variables"
+
+//********************************************/
+//* STYLE:SCSS
+//********************************************/
+body {
+  font-family: $fontFamily;
+  background-color: $bgColor;
+  font-size: $fontSize;
+  color: $fontColor;
+}
+
